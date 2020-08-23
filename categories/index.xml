@@ -6,9 +6,19 @@
     <description>Recent content in Categories on PTT Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 23 Aug 2020 12:54:31 +0800</lastBuildDate>
     
 	<atom:link href="http://ptt.face8ook.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>chinese</title>
+      <link>http://ptt.face8ook.org/categories/chinese/</link>
+      <pubDate>Sun, 23 Aug 2020 12:54:31 +0800</pubDate>
+      
+      <guid>http://ptt.face8ook.org/categories/chinese/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
