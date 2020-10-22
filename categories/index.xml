@@ -6,10 +6,19 @@
     <description>Recent content in Categories on PTT Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2020 21:59:36 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 00:26:46 +0800</lastBuildDate>
     
 	<atom:link href="http://ptt.face8ook.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>english</title>
+      <link>http://ptt.face8ook.org/categories/english/</link>
+      <pubDate>Fri, 23 Oct 2020 00:26:46 +0800</pubDate>
+      
+      <guid>http://ptt.face8ook.org/categories/english/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>other</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 22 Oct 2020 21:59:36 +0800</pubDate>
       
       <guid>http://ptt.face8ook.org/categories/other/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>english</title>
-      <link>http://ptt.face8ook.org/categories/english/</link>
-      <pubDate>Sun, 18 Oct 2020 22:03:58 +0800</pubDate>
-      
-      <guid>http://ptt.face8ook.org/categories/english/</guid>
       <description></description>
     </item>
     
