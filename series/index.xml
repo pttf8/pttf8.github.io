@@ -5,10 +5,6 @@
     <link>http://ptt.face8ook.org/series/</link>
     <description>Recent content in Series on PTT Web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="http://ptt.face8ook.org/series/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="http://ptt.face8ook.org/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
